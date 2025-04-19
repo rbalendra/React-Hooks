@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Title from '../01-e-signature-app/components/Title';
+import Title from '../components/Title';
 import {
 	AiTwotoneSmile,
 	AiFillHeart,

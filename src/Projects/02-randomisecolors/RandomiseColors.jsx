@@ -1,5 +1,5 @@
 import React from 'react';
-import Title from '../01-e-signature-app/components/Title';
+import Title from '../components/Title';
 
 const RandomiseColors = () => {
 	const handleClick = (e) => {
