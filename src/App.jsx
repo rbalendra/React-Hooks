@@ -5,6 +5,7 @@ import LikePhotoApp from './Projects/03-like-my-photo/LikePhotoApp';
 import TestimonialsApp from './Projects/04-testimonials-app/TestimonialsApp';
 import AlertApp from './Projects/05-Alerts/AlertApp';
 import TemperatureControllerApp from './Projects/06-temperature-controller/TemperatureControllerApp';
+import LightAndDarkMode from './Projects/07-lightanddarkmode/LightAndDarkMode';
 
 function App() {
 	return (
@@ -14,7 +15,8 @@ function App() {
 			{/* <LikePhotoApp /> */}
 			{/* <TestimonialsApp /> */}
 			{/* <AlertApp /> */}
-			<TemperatureControllerApp />
+			{/* <TemperatureControllerApp /> */}
+			{<LightAndDarkMode />}
 		</div>
 	);
 }
